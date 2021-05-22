@@ -344,3 +344,4 @@ class MyApp extends StatelessWidget {
 https://twitter.com/tsuzuki817/status/1370050258391105538?ref_src=twsrc%5Etfw
 
 以上Flutter Tutorial part1でした！
+

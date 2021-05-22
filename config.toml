@@ -2,21 +2,49 @@ baseURL = "https://tsuzukihashi.github.io"
 languageCode = "en-us"
 title = "愚直プログラマ"
 theme = "m10c"
+googleAnalytics = "UA-130046973-1"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
+    identifier = "001"
     name = "Home"
     url = "/"
+    weight = 1
   [[menu.main]]
-    identifier = "tags"
+    identifier = "002"
     name = "Tags"
     url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "zenn"
+    name = "Zenn"
+    url = "https://zenn.dev/tsuzuki817"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "qiita"
+    name = "Qiita"
+    url = "https://qiita.com/tsuzuki817"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "ios"
+    name = "iOSアプリ一覧"
+    url = "https://apps.apple.com/jp/developer/ryo-tsudukihashi/id1320583602?l"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "android"
+    name = "Androidアプリ一覧"
+    url = "https://play.google.com/store/apps/developer?id=KamitsureLab"
+    weight = 6
+
 [params]
   author = "Ryo Tsuzukihashi"
   description = "Yahoo! JAPAN iOS Engineer."
   avatar = "images/profile.jpg"
-  menu_item_separator = " - "
+  menu_item_separator = "/"
   [[params.social]]
     name = "github"
     url = "https://github.com/tsuzukihashi"
@@ -30,8 +58,9 @@ theme = "m10c"
     name = "instagram"
     url = "https://www.instagram.com/tsuzuki817"
   [[params.social]]
-    name = "qiita"
-    url = "https://qiita.com/tsuzuki817"
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCzN40-yZ2ema3ulug5wCfcA"
+
 [params.style]
   darkestColor = "#d35050"
   darkColor = "#212121"
