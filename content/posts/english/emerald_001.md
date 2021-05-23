@@ -267,3 +267,5 @@ Tsuzuki saved the game.
 レポートのところは結構英語と日本語で印象が変わりますね！
 
 今回はここまで！次回はミシロタウンことLITTLEROOTからです。
+
+->  次回　[ミシロタウン編](https://www.tsuzuki817.com/posts/english/emerald_002/)
