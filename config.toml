@@ -42,7 +42,7 @@ googleAnalytics = "UA-130046973-1"
 
 [params]
   author = "Ryo Tsuzukihashi"
-  description = "Yahoo! JAPAN iOS Engineer."
+  description = "DeNA iOS Engineer."
   avatar = "images/profile.jpg"
   menu_item_separator = "/"
   [[params.social]]
